@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./public/images/logo.svg" alt="Logo Proffy" width="120">
+  <img src="/github/logo.png" alt="Logo Proffy" width="120">
 </h1>
 
 <p align="center">Plataforma para integração de professores e alunos</p>
@@ -11,8 +11,9 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="/github/home-proffy.gif" alt="Home" height="425">
+  <img src="/github/classes-proffy.gif" alt="Classes" height="425">
+  <img src="/github/study-proffy.gif" alt="Study" height="425">
 </div>
 
 ## :rocket: Tecnologias
